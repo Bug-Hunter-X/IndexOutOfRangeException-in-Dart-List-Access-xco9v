@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dart programming: accessing a list element with an index that is out of bounds. The `bug.dart` file contains the erroneous code, which throws a `RangeError`. The `bugSolution.dart` file provides a corrected version that handles potential index errors.
